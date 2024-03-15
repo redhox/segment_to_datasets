@@ -2,7 +2,7 @@
 
 This project uses Docker to create an isolated environment for running a Python script that retrieves segmented images from a folder and transforms them into a dataset compatible with YOLOv8.
 
-<img src="https://github.com/redhox/segment_to_datasets/blob/main/image5.png?raw=true">
+<img src="https://github.com/redhox/segment_to_datasets/blob/main/image5.jpg?raw=true">
 ## Prerequisites
 
 - Docker installed on your machine.
