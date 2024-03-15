@@ -1,0 +1,9 @@
+version: '3'
+services:
+  datasets_colage:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: datasets_colage
+    volumes:
+      ['./:/app']
